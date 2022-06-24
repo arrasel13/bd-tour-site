@@ -1,0 +1,10 @@
+@media (max-width: 575.98px) {
+    .testimonial-demo .slick-next.slick-arrow {
+        /* display: none; */
+        right: 2px;
+    }
+    .testimonial-demo .slick-prev.slick-arrow {
+        /* display: none; */
+        left: -2px;
+    }
+}
